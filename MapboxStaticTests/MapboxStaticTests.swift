@@ -370,7 +370,7 @@ class MapboxStaticTests: XCTestCase {
         let fillColor = Color.red
         let fillColorRaw = "ff0000"
         let fillOpacity = 0.25
-        let encodedPolyline = "(upztG%60jxkVn@al@bo@nFWzuAaTcAyZen@)"
+        let encodedPolyline = "(upztG%60jxkVn@al@bo@pFWzuAaTcAyZgn@)"
 
         let path = Path(
             coordinates: [
